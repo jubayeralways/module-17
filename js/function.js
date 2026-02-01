@@ -32,15 +32,15 @@
 
 ////////
 
-function tentimes (number){
-    const result = number / 3;
-    return result;
+// function tentimes (number){
+//     const result = number / 3;
+//     return result;
 
-}
+// }
 
-tentimes(33);
-const output = tentimes(33);
-console.log( 'output' , output);
+// tentimes(33);
+// const output = tentimes(33);
+// console.log( 'output' , output);
 
 
 
