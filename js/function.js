@@ -41,6 +41,18 @@
 // tentimes(33);
 // const output = tentimes(33);
 // console.log( 'output' , output);
+// function iseven(number){
+//     if (number % 2 === 0) {
+//         return true;
+//     }
+//     else{
+//         return false;
+//     }
+// }
+// iseven();
+function getMenu() {
+ console.log("Burger, Pizza, Pasta");
+}
 
 
 
